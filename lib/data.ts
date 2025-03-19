@@ -67,15 +67,15 @@ export const experiencesData = [
     description:
       "Trabalho na Conduzza Digital, agência de marketing especializado em clínicas médicas. Desenvolvo o layout do site até sua construção completa para atender as necessidades dos clientes usando o Figma, Photoshop e Wordpress",
     icon: React.createElement(CgWorkAlt),
-    date: "FEV 2024 - Até o momento",
+    date: "FEV 2024 - MAR 2025",
   },
   {
-    title: "Freelancer",
+    title: "Designer Aux",
     location: "Natal, Brasil",
     description:
-      "Crio identidades visuais, desenvolvendo conceitos (desing thinking) e designs que traduzem a essência das marcas.",
+      "Trabalho como brand designer auxiliar, e realizo fechamento dos arquivos, crio também mockups com aplicações que fazem sentido, conversando com a marca.",
     icon: React.createElement(CgWorkAlt),
-    date: "AGO 2023 - Até o momento",
+    date: "MAR 2025 - Até o momento",
   },
   
 ] as const;
