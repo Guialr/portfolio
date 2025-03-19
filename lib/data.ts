@@ -73,7 +73,7 @@ export const experiencesData = [
     title: "Designer Aux",
     location: "Natal, Brasil",
     description:
-      "Trabalho como brand designer auxiliar, e realizo fechamento dos arquivos, crio também mockups com aplicações que fazem sentido, conversando com a marca.",
+      "Trabalho no Senhor Studio como brand designer auxiliar, e realizo fechamento dos arquivos, crio também mockups com aplicações que fazem sentido, conversando com a marca.",
     icon: React.createElement(CgWorkAlt),
     date: "MAR 2025 - Até o momento",
   },
